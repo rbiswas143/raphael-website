@@ -68,6 +68,7 @@ missionSection:
     associated disabilities.
   bullet2: Control of TB.
   bullet3: Life-long care of persons with disabilities rejected by society.
+  backgroundImage: https://res.cloudinary.com/drqqjw6pd/image/upload/v1673199282/raphael/pages/home/missionSection/missionSectionBackground_cof7ta.jpg
 image: /img/home-jumbotron.jpg
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
